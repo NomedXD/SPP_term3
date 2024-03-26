@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root_of_trace id="1" time="260.5712">
+	<Methods>
+		<MethodElement>
+			<methodProperties name="MyMethod" class="Foo" time="260.5712">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="109.2043" />
+				</methods>
+			</methodProperties>
+		</MethodElement>
+	</Methods>
+</root_of_trace>
+<?xml version="1.0" encoding="utf-16"?>
+<root_of_trace id="7" time="572.6189999999999">
+	<Methods>
+		<MethodElement>
+			<methodProperties name="MyMethod" class="Foo" time="260.5641">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="109.2038" />
+				</methods>
+			</methodProperties>
+		</MethodElement>
+		<MethodElement>
+			<methodProperties name="MySecondMethod" class="Foo" time="312.0549">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="109.4976" />
+				</methods>
+			</methodProperties>
+		</MethodElement>
+	</Methods>
+</root_of_trace>
+<?xml version="1.0" encoding="utf-16"?>
+<root_of_trace id="8" time="368.74399999999997">
+	<Methods>
+		<MethodElement>
+			<methodProperties name="MyMethod" class="Foo" time="260.5714">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="109.2067" />
+				</methods>
+			</methodProperties>
+		</MethodElement>
+		<MethodElement>
+			<methodProperties name="InnerMethod" class="Bar" time="108.1726" />
+		</MethodElement>
+	</Methods>
+</root_of_trace>
