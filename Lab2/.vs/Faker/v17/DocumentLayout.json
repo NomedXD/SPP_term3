@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\faker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\faker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\usergenerators\\countrygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\usergenerators\\countrygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\faker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\faker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\usergenerators\\agegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\usergenerators\\agegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\intgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\intgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\fakercustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\fakercustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07090232-4DF6-4773-9093-BC7D8F05893F}|Examples\\Classes.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07090232-4DF6-4773-9093-BC7D8F05893F}|Examples\\Classes.csproj|solutionrelative:examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07090232-4DF6-4773-9093-BC7D8F05893F}|Examples\\Classes.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\examples\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07090232-4DF6-4773-9093-BC7D8F05893F}|Examples\\Classes.csproj|solutionrelative:examples\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A720BC63-744F-4250-BB66-9F66FC6F27C6}|Generators\\Generators.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\generators\\shortgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A720BC63-744F-4250-BB66-9F66FC6F27C6}|Generators\\Generators.csproj|solutionrelative:generators\\shortgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A720BC63-744F-4250-BB66-9F66FC6F27C6}|Generators\\Generators.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\generators\\chargenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A720BC63-744F-4250-BB66-9F66FC6F27C6}|Generators\\Generators.csproj|solutionrelative:generators\\chargenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07090232-4DF6-4773-9093-BC7D8F05893F}|Examples\\Classes.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\examples\\classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07090232-4DF6-4773-9093-BC7D8F05893F}|Examples\\Classes.csproj|solutionrelative:examples\\classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\icustomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\icustomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\doublegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\doublegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\floatgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\floatgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\bytegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\bytegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\datetimegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\datetimegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|c:\\users\\coovs\\desktop\\spp\\lab2\\fakercore\\generators\\longgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163BF8B-17FF-48FB-8760-B7B7A70809F0}|FakerCore\\Faker.csproj|solutionrelative:fakercore\\generators\\longgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\ICustomGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\ICustomGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\ICustomGenerator.cs",
+              "RelativeToolTip": "FakerCore\\ICustomGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:15:56.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Examples\\Classes.cs",
+              "RelativeDocumentMoniker": "Examples\\Classes.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Examples\\Classes.cs",
+              "RelativeToolTip": "Examples\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Examples\\Program.cs",
+              "RelativeDocumentMoniker": "Examples\\Program.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Examples\\Program.cs",
+              "RelativeToolTip": "Examples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneratorContext.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\GeneratorContext.cs",
+              "RelativeDocumentMoniker": "FakerCore\\GeneratorContext.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\GeneratorContext.cs",
+              "RelativeToolTip": "FakerCore\\GeneratorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\UserGenerators\\CountryGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\UserGenerators\\CountryGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\UserGenerators\\CountryGenerator.cs",
+              "RelativeToolTip": "FakerCore\\UserGenerators\\CountryGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Faker.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Faker.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Faker.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Faker.cs",
+              "RelativeToolTip": "FakerCore\\Faker.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAiwHIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faker.csproj",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Faker.csproj",
+              "RelativeDocumentMoniker": "FakerCore\\Faker.csproj",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Faker.csproj",
+              "RelativeToolTip": "FakerCore\\Faker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T08:14:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\UserGenerators\\AgeGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\UserGenerators\\AgeGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\UserGenerators\\AgeGenerator.cs",
+              "RelativeToolTip": "FakerCore\\UserGenerators\\AgeGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakerCustom.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\FakerCustom.cs",
+              "RelativeDocumentMoniker": "FakerCore\\FakerCustom.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\FakerCustom.cs",
+              "RelativeToolTip": "FakerCore\\FakerCustom.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\IntGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\IntGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\IntGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\IntGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShortGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Generators\\ShortGenerator.cs",
+              "RelativeDocumentMoniker": "Generators\\ShortGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Generators\\ShortGenerator.cs",
+              "RelativeToolTip": "Generators\\ShortGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\IGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\IGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\IGenerator.cs",
+              "RelativeToolTip": "FakerCore\\IGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:16:31.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Generators\\CharGenerator.cs",
+              "RelativeDocumentMoniker": "Generators\\CharGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Generators\\CharGenerator.cs",
+              "RelativeToolTip": "Generators\\CharGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Classes.csproj",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Examples\\Classes.csproj",
+              "RelativeDocumentMoniker": "Examples\\Classes.csproj",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\Examples\\Classes.csproj",
+              "RelativeToolTip": "Examples\\Classes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T08:09:55.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoubleGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\DoubleGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\DoubleGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\DoubleGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\DoubleGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FloatGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\FloatGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\FloatGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\FloatGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\FloatGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ByteGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\ByteGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\ByteGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\ByteGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\ByteGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DateTimeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\DateTimeGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\DateTimeGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\DateTimeGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\DateTimeGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\ListGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\ListGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\ListGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LongGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\LongGenerator.cs",
+              "RelativeDocumentMoniker": "FakerCore\\Generators\\LongGenerator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\Lab2\\FakerCore\\Generators\\LongGenerator.cs",
+              "RelativeToolTip": "FakerCore\\Generators\\LongGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:25.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

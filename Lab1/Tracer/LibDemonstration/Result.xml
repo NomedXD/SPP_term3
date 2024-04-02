@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-16"?>
-<root_of_trace id="1" time="260.5712">
+<root_of_trace id="1" time="271.0305">
 	<Methods>
 		<MethodElement>
-			<methodProperties name="MyMethod" class="Foo" time="260.5712">
+			<methodProperties name="MyMethod" class="Foo" time="271.0305">
 				<methods>
-					<methodProperties name="InnerMethod" class="Bar" time="109.2043" />
+					<methodProperties name="InnerMethod" class="Bar" time="109.3051" />
 				</methods>
 			</methodProperties>
 		</MethodElement>
 	</Methods>
 </root_of_trace>
 <?xml version="1.0" encoding="utf-16"?>
-<root_of_trace id="7" time="572.6189999999999">
+<root_of_trace id="8" time="580.4289">
 	<Methods>
 		<MethodElement>
-			<methodProperties name="MyMethod" class="Foo" time="260.5641">
+			<methodProperties name="MyMethod" class="Foo" time="271.029">
 				<methods>
-					<methodProperties name="InnerMethod" class="Bar" time="109.2038" />
+					<methodProperties name="InnerMethod" class="Bar" time="109.2978" />
 				</methods>
 			</methodProperties>
 		</MethodElement>
 		<MethodElement>
-			<methodProperties name="MySecondMethod" class="Foo" time="312.0549">
+			<methodProperties name="MySecondMethod" class="Foo" time="309.3999">
 				<methods>
-					<methodProperties name="InnerMethod" class="Bar" time="109.4976" />
+					<methodProperties name="InnerMethod" class="Bar" time="109.0322" />
 				</methods>
 			</methodProperties>
 		</MethodElement>
 	</Methods>
 </root_of_trace>
 <?xml version="1.0" encoding="utf-16"?>
-<root_of_trace id="8" time="368.74399999999997">
+<root_of_trace id="9" time="377.31669999999997">
 	<Methods>
 		<MethodElement>
-			<methodProperties name="MyMethod" class="Foo" time="260.5714">
+			<methodProperties name="MyMethod" class="Foo" time="271.0345">
 				<methods>
-					<methodProperties name="InnerMethod" class="Bar" time="109.2067" />
+					<methodProperties name="InnerMethod" class="Bar" time="109.3056" />
 				</methods>
 			</methodProperties>
 		</MethodElement>
 		<MethodElement>
-			<methodProperties name="InnerMethod" class="Bar" time="108.1726" />
+			<methodProperties name="InnerMethod" class="Bar" time="106.2822" />
 		</MethodElement>
 	</Methods>
 </root_of_trace>
