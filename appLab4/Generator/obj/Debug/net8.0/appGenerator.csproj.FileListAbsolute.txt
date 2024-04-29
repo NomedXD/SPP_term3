@@ -1,0 +1,13 @@
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\bin\Debug\net8.0\appGenerator.deps.json
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\bin\Debug\net8.0\appGenerator.dll
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\bin\Debug\net8.0\appGenerator.pdb
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.csproj.AssemblyReference.cache
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.AssemblyInfoInputs.cache
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.AssemblyInfo.cs
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.csproj.CoreCompileInputs.cache
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.sourcelink.json
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.dll
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\refint\appGenerator.dll
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\appGenerator.pdb
+C:\Users\coovs\Desktop\SPP\appLab4\appGenerator\obj\Debug\net8.0\ref\appGenerator.dll

@@ -1,0 +1,6 @@
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\TestableLibrary\bin\Debug\TestableLibrary.dll
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\TestableLibrary\bin\Debug\TestableLibrary.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\TestableLibrary\obj\Debug\TestableLibrary.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\TestableLibrary\obj\Debug\TestableLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\TestableLibrary\obj\Debug\TestableLibrary.dll
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\TestableLibrary\obj\Debug\TestableLibrary.pdb

@@ -1,0 +1,41 @@
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestableLibrary\bin\Debug\TestableLibrary.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestableLibrary\bin\Debug\TestableLibrary.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestableLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestableLibrary\obj\Debug\TestableLibrary.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestableLibrary\obj\Debug\TestableLibrary.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestLibrary\obj\Debug\TestLibrary.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\coovs\Desktop\SPP\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\coovs\Desktop\SPP\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\coovs\Desktop\SPP\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\coovs\Desktop\SPP\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\coovs\Desktop\SPP\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\coovs\Desktop\SPP\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\coovs\Desktop\SPP\Lab 3\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\coovs\Desktop\SPP\Lab 3\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\coovs\Desktop\SPP\Lab 3\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\coovs\Desktop\SPP\Lab 3\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\TestLibrary\obj\Debug\TestLibrary.pdb

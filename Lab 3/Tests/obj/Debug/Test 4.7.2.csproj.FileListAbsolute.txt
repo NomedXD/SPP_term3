@@ -1,0 +1,57 @@
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Test 4.7.2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Test 4.7.2.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\obj\Debug\Test 4.7.2.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.CopyComplete
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\obj\Debug\Test 4.7.2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\Test 4.7.2\obj\Debug\Test 4.7.2.pdb
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Test 4.7.2.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Test 4.7.2.pdb
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.AssemblyReference.cache
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.CoreCompileInputs.cache
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.Up2Date
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Test 4.7.2.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Test 4.7.2.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.csproj.Up2Date
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\Test 4.7.2\obj\Debug\Test 4.7.2.pdb

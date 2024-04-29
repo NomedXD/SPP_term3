@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9846104-1E38-4D84-B8E1-2ACA4190363F}|Generator\\Generator.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\generator\\src\\main\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9846104-1E38-4D84-B8E1-2ACA4190363F}|Generator\\Generator.csproj|solutionrelative:generator\\src\\main\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B86F3B-F810-4306-A54A-FA9897F4192A}|UnitTest\\UnitTest.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\unittest\\src\\main\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B86F3B-F810-4306-A54A-FA9897F4192A}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\src\\main\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B86F3B-F810-4306-A54A-FA9897F4192A}|UnitTest\\UnitTest.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\unittest\\src\\main\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B86F3B-F810-4306-A54A-FA9897F4192A}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\src\\main\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8800CD2-5E32-41BF-8669-CBBAAAA78485}|Program\\Program.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\program\\src\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8800CD2-5E32-41BF-8669-CBBAAAA78485}|Program\\Program.csproj|solutionrelative:program\\src\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8800CD2-5E32-41BF-8669-CBBAAAA78485}|Program\\Program.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\program\\src\\main\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8800CD2-5E32-41BF-8669-CBBAAAA78485}|Program\\Program.csproj|solutionrelative:program\\src\\main\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8800CD2-5E32-41BF-8669-CBBAAAA78485}|Program\\Program.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8800CD2-5E32-41BF-8669-CBBAAAA78485}|Program\\Program.csproj|solutionrelative:program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9846104-1E38-4D84-B8E1-2ACA4190363F}|Generator\\Generator.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\generator\\generator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9846104-1E38-4D84-B8E1-2ACA4190363F}|Generator\\Generator.csproj|solutionrelative:generator\\generator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B86F3B-F810-4306-A54A-FA9897F4192A}|UnitTest\\UnitTest.csproj|c:\\users\\coovs\\desktop\\spp\\applab4\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47B86F3B-F810-4306-A54A-FA9897F4192A}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\UnitTest\\src\\main\\Tests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\src\\main\\Tests.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\UnitTest\\src\\main\\Tests.cs",
+              "RelativeToolTip": "UnitTest\\src\\main\\Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:26:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\UnitTest\\src\\main\\Example.cs",
+              "RelativeDocumentMoniker": "UnitTest\\src\\main\\Example.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\UnitTest\\src\\main\\Example.cs",
+              "RelativeToolTip": "UnitTest\\src\\main\\Example.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:26:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Generator\\src\\main\\Generator.cs",
+              "RelativeDocumentMoniker": "Generator\\src\\main\\Generator.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Generator\\src\\main\\Generator.cs",
+              "RelativeToolTip": "Generator\\src\\main\\Generator.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAcwLkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:23:25.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Program\\src\\main\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\src\\main\\Program.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Program\\src\\main\\Program.cs",
+              "RelativeToolTip": "Program\\src\\main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:22:15.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Program\\src\\main\\Example.cs",
+              "RelativeDocumentMoniker": "Program\\src\\main\\Example.cs",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Program\\src\\main\\Example.cs",
+              "RelativeToolTip": "Program\\src\\main\\Example.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:22:07.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\UnitTest\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\UnitTest\\UnitTest.csproj",
+              "RelativeToolTip": "UnitTest\\UnitTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T17:21:49.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Program\\Program.csproj",
+              "RelativeDocumentMoniker": "Program\\Program.csproj",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Program\\Program.csproj",
+              "RelativeToolTip": "Program\\Program.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T17:21:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generator",
+              "DocumentMoniker": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Generator\\Generator.csproj",
+              "RelativeDocumentMoniker": "Generator\\Generator.csproj",
+              "ToolTip": "C:\\Users\\coovs\\Desktop\\SPP\\appLab4\\Generator\\Generator.csproj",
+              "RelativeToolTip": "Generator\\Generator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T17:21:34.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

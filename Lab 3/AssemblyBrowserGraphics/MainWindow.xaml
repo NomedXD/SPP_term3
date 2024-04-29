@@ -1,0 +1,28 @@
+﻿<Window x:Class="AssemblyBrowserGraphics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AssemblyBrowserGraphics"
+        mc:Ignorable="d"
+        Title="Lab3" Height="600" Width="800" >
+    <Window.DataContext>
+        <local:ViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <Menu DockPanel.Dock="Top" FontSize="14" Background="#FF7EA4A3">
+                <MenuItem Header="File">
+                    <MenuItem Header="Open" Command="{Binding OpenFile}"></MenuItem>
+                </MenuItem>
+            </Menu>
+            <TreeView ItemsSource="{Binding Path=Containers}" DockPanel.Dock="Top"  FontSize="16" Background="#FFA8D7D5">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Path=Members}">
+                        <TextBlock Text="{Binding DeclarationName, UpdateSourceTrigger=PropertyChanged}"/>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        </DockPanel>
+    </Grid>
+</Window>

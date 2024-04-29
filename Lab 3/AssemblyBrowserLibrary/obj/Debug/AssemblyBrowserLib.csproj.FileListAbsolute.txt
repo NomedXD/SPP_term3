@@ -1,0 +1,12 @@
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csproj.AssemblyReference.cache
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csproj.CoreCompileInputs.cache
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.dll
+C:\Users\baran\Downloads\KESHA\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.pdb

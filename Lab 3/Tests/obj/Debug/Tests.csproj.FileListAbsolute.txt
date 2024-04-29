@@ -1,0 +1,57 @@
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Test 4.7.2.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Test 4.7.2.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\obj\Debug\Tests.csproj.Up2Date
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\obj\Debug\Test 4.7.2.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Test 4.7.2\obj\Debug\Test 4.7.2.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Test 4.7.2.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Test 4.7.2.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\obj\Debug\Tests.csproj.Up2Date
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\obj\Debug\Test 4.7.2.dll
+C:\Users\coovs\OneDrive\Desktop\SPP\SPP_term3\Lab 3\Tests\obj\Debug\Test 4.7.2.pdb
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Test 4.7.2.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Test 4.7.2.pdb
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\obj\Debug\Tests.csproj.Up2Date
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\obj\Debug\Test 4.7.2.dll
+C:\Users\coovs\Desktop\SPP\Lab 3\Tests\obj\Debug\Test 4.7.2.pdb

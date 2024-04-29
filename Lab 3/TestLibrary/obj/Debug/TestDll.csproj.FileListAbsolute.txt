@@ -1,0 +1,6 @@
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestDll.csproj.AssemblyReference.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestDll.csproj.CoreCompileInputs.cache
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\coovs\OneDrive\Desktop\AssemblyBrowser_lab3-main\TestLibrary\obj\Debug\TestLibrary.pdb
